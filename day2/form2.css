@@ -1,0 +1,34 @@
+.container{
+    
+    background-image: url(https://th.bing.com/th/id/R.7f58d7323d8a6e242e8161caa3352d80?rik=Jp5MneGju3QG4w&riu=http%3a%2f%2fwww.healthgoesup.com%2fwp-content%2fuploads%2f2018%2f05%2fsun.jpg&ehk=FXZWReyy9p55IQ6%2fMQkOZ29PKCjATh1bk6tObClc6yk%3d&risl=&pid=ImgRaw&r=0);
+    
+    width:100%;
+    height: 1000px;
+    padding: 50px;
+}
+.box1{
+    width: 800px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    opacity: 0.5;
+    padding: 50px;
+    margin: 20px;
+    height: 800px;
+
+}
+.box2{
+    margin: 20px;
+}
+.fill{
+    border: none;
+    border-bottom: 2px solid rgb(41, 59, 197) ;
+}
+.al{
+    position: absolute;
+    right: 1050px;
+}
+.fill2{
+    margin-right: 3px;
+    
+
+}
